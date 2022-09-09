@@ -1,0 +1,3 @@
+[submodule "NeoPixel_lib"]
+	path = NeoPixel_lib
+	url = https://github.com/FoucaultJ/NeoPixel_lib.git
